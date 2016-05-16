@@ -10,3 +10,9 @@ Things that were needed to be done:
 * Ruby on Rails
 
 * Complaints registration portal
+
+* Download the code and in your browser go to localhost/reap/issues page where you can look into the all issues listed.
+
+* To create a new complaint go to localhost/reap/issues/new where user can create a new complaint.
+
+* Check the routes.rb file for other routes in the config folder.
